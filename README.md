@@ -43,7 +43,7 @@ To use this program:
 
 Clone the repo
 
-    git clone https://github.com/Nachop51/simple_shell
+    git clone git@github.com:Reah2/holbertonschool-simple_shell.git
 
 Compile it with
 
@@ -163,4 +163,6 @@ For More Info About It Check The Man Page by:
     username@prompt:~$ man ./man_1_simple_shell
 
 ## Authors
-Reabetsoe Ramoshabe# Test-C---Simple-Shell-
+Reabetsoe Ramoshabe <jamesramoshabe5@gmal.com>
+Tlali Makhothi <makhothitlali@gmail.com>
+Thetele Ramoonyane <theteleramooyane5@gmail.com>
